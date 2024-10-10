@@ -1,0 +1,69 @@
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+caption {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+
+th {
+    width: 100px;
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.lmsgi {
+    background-color: #dbbe48; 
+}
+
+.bd {
+    background-color: #2474a8; 
+}
+
+.p-ed {
+    background-color: #d85f5f; 
+}
+
+.si {
+    background-color: #ee9446; 
+}
+
+.tut {
+    background-color: #D7BDE2; 
+}
+
+.an {
+    background-color: #e2619d; 
+}
+
+.diw {
+    background-color: #F5B7B1; 
+}
+
+.ipoi {
+    background-color: #31d173; 
+}
